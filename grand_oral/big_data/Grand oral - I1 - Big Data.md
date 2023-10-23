@@ -1,6 +1,6 @@
 ---
-title: Grand oral - I1 - Big Data
-sidebar_position: 2
+title: Big Data - squelette
+sidebar_position: 1
 tags: [grand_oral]
 ---
 
