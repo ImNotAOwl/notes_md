@@ -1,10 +1,8 @@
 ---
-title: big_note_1
+title: Note 1
 sidebar_position: 2
 tags: [big_data, definition, defi ]
 ---
-
-Podcast 'Diginov, ep5'
 
 Thème : Data Analytics ou comment donner de la valeur aux données...
 
@@ -44,3 +42,7 @@ Le traitement des données est quasiment en temps réel à la différence des an
 Big Data à pour objectif : la prédiction, la découverte de nouvelle infos, la génération d'infos en temps réelle.
 
 Big data doit être hautement évolutif, pour suivre la croissance des données, c'est un gros enjeu. Ainsiq que de pouvoir ajouter facilement des ressources, sans pour autant freiner les traitement en cours. L'évolution est extrêmement rapide avec les nouvelles technos qui améliore les process.
+
+:::info
+Podcast 'Diginov, ep5'
+:::
