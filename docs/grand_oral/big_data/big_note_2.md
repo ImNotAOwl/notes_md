@@ -1,6 +1,6 @@
 ---
 title: Note 2
-sidebar_position: 2
+sidebar_position: 3
 tags: [big_data, data_analytics, valeur, decision ]
 ---
 
