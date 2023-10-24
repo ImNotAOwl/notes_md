@@ -11,5 +11,5 @@ Nous avons 6 itérations pour travailler sur les 5 thèmes par année.
  - Intelligence Artificiel
  - Mobilité
  - Optimisation du SI
- - Big Data
+ - Big Data (I1)
  - Développement
