@@ -6,6 +6,7 @@ tags: [cubes-1, cdc-1]
 
 # Contraintes
 
+Afin de garantir le succès du projet, les contraintes qui en ressortent sont les suivantes:
 - Assurer la continuité des données dans la refonte de l'architecture.
 - 5 développeurs (dont 1 historique)
 - Code source disparu
@@ -19,6 +20,7 @@ tags: [cubes-1, cdc-1]
 
 # Livrables
 
+Pour la réalisation du projet de refonte du système d'information, nous nous engageons à fournir les éléments suivants :
 - Analyse du besoins
 - Audit de l'existant
 - Proposition d'architecture logicielle
