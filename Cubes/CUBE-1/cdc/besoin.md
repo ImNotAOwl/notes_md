@@ -21,3 +21,8 @@ La résolution de cette problématique peut être envisagée par un hébergement
 - Documentation exhaustive
 
 # Périmètre de la demande
+| Périmètre | Limite |
+| --------- | ------ |
+| Audit du SI en place | Développement des applications |
+| Concevoir et justifier une architecture logicielle | Mise à disposition du matériel (serveurs, ...) |
+| Conseiller les décideur sur la stratégie de développement (budget, organisation du développement, bonnes pratiques, ...) |  |
