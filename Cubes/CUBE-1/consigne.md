@@ -20,7 +20,7 @@ Une VM tourne sans que personne ne sache exactement quel est son rôle.
 
 Une partie des informations étant manquantes (cf schéma), vous devrez expliciter comment vous réaliserez l'analyse de ces parties. Vous choisirez ensuite le type d'usage des machines non documentées. L'architecture actuelle présente plusieurs manque que vous documenterez.
 
-![Architecture actuelle](../../../assets/architecture.PNG)
+![Architecture actuelle](./assets/architecture.png)
 
 ## Travail demandé / Livrable final
 Vous devrez tout d’abord réaliser un rapport sur l’existant, ses problématiques et les risques associés pour l’entreprise. Vous devez ensuite proposer une refonte de l’infrastructure, prenant en compte les points énoncés ci-dessus. L’architecture proposée devra être détaillée, au niveau logiciel, matériel et humain. Enfin, vous devrez concevoir un plan budgétaire de la refonte, ainsi qu’un calendrier de réalisation.
