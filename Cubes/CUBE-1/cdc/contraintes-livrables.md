@@ -1,5 +1,5 @@
 ---
-title: Contraintes du projet
+title: Contraintes et livrables du projet
 sidebar_position: 3
 tags: [cubes-1, cdc-1]
 ---
@@ -16,3 +16,14 @@ tags: [cubes-1, cdc-1]
  Budget alloué : 500k€
  Voir si on garde
 :::
+
+# Livrables
+
+- Analyse du besoins
+- Audit de l'existant
+- Proposition d'architecture logicielle
+- Présentation des solutions et éclairage sur la solution préconnisée
+
+:::note
+POC peut-être à mettre.
+::: 
