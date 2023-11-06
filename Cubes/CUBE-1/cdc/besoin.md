@@ -26,3 +26,4 @@ La résolution de cette problématique peut être envisagée par un hébergement
 | Audit du SI en place | Développement des applications |
 | Concevoir et justifier une architecture logicielle | Mise à disposition du matériel (serveurs, ...) |
 | Conseiller les décideur sur la stratégie de développement (budget, organisation du développement, bonnes pratiques, ...) |  |
+| Support de la nouvelle architecture |  |
