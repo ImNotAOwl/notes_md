@@ -5,6 +5,10 @@ tags: [cubes-1, consignes-1, analyse-1]
 
 # Analyse de l'existant
 
+## Schéma de l'architecture 
+![Schéma de l'architecture existante](./assets/analyse_architecture.png)
+*Schéma de l'architecture existante*
+
 ## Qu'est-ce qui est fait ?
 ### La Base de données
 - un serveur Oracle dont la documentation est incomplète,
