@@ -1,7 +1,7 @@
 ---
 title: Analyse du besoin
 sidebar_position: 2
-tags: [cubes-1, consignes-1]
+tags: [cubes-1, cdc-1]
 ---
 
 # Analyse du besoin
