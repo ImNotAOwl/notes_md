@@ -14,7 +14,11 @@ La refonte de l'architecture doit répondre à la problématique première de l'
 La résolution de cette problématique peut être envisagée par un hébergement Cloud, même si d'autres solutions ne sont pas à négliger.
 
 
-# Objectif du besoin
+# Exigences
 - non-régression des fonctionnalités actuelles
 - disponibilité de l'infrastructure
 - maintenabilité
+- Continuité des données entre les deux architectures
+- Documentation exhaustive
+
+# Périmètre de la demande
