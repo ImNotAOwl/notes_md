@@ -15,3 +15,9 @@ tags: [cubes-1, management, projet]
 
 ## Méthode de travail 
 
+## Communication 
+    Discord 
+
+## Cours 
+ + Essentiels de l'infrastructure du SI
+ + Choix des technologies et infrastructure de développement 
