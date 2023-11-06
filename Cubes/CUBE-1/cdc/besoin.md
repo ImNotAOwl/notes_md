@@ -24,7 +24,7 @@ La résolution de cette problématique peut être envisagée par un hébergement
 Le projet comprend les éléments suivants :
 - Audit du SI en place,
 - Concevoir et justifier  une architecture logicielle,
-- Conseiller les décideurs sur la stratégie de développement (budget, organisation du développement, bonnes pratiques, ...),
+- Conseiller les décideurs sur la stratégie de développement (budget, organisation du développement, bonnes pratiques, versionning git...),
 - Support de la nouvelle architecture.
 
 Cependant, les élements suivant ne seront pas compris dans le projet :
