@@ -1,4 +1,5 @@
 ---
+title: Analyse du besoin
 sidebar_position: 2
 tags: [cubes-1, consignes-1]
 ---
