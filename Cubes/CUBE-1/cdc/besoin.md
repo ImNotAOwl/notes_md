@@ -17,7 +17,6 @@ La résolution de cette problématique peut être envisagée par un hébergement
 # Exigences
 - non-régression des fonctionnalités actuelles
 - disponibilité de l'infrastructure
-- maintenabilité
 - Continuité des données entre les deux architectures
 - Documentation exhaustive
 
